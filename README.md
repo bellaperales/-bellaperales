@@ -39,11 +39,11 @@ Development of a website for a non-profit organization aimed at facilitating tra
 serving as both a Front-End Developer and Database Designer.
 
 # Technical Skills
-C++ 1 year
-Java, Python 6 months
-Javascript, REACT, CSS and HTML 6 months
-Databases:
-SQL, SQL Server, MySQL 6 months
+- C++ 1 year
+- Java, Python 6 months
+- Javascript, REACT, CSS and HTML 6 months
+- Databases:
+- SQL, SQL Server, MySQL 6 months
 
 # Awards
 - President and Founder Woman Leaders in STEAM Chapter 2019 - 2024
